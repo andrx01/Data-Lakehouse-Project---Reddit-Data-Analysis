@@ -99,14 +99,3 @@ reddit:
 * Scikit-learn (Classificação)
 * Seaborn / Matplotlib / Wordcloud
 
----
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar PRs para melhorar o projeto.
-
----
-
-## 📜 Licença
-
-Este projeto é distribuído sob a licença MIT. Consulte `LICENSE` para mais informações.
