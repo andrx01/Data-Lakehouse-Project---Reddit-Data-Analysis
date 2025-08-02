@@ -1,0 +1,14 @@
+reddit:
+  client_id: "SEU_ID"
+  client_secret: "SEU_SECRET_CODE"
+  user_agent: "SEU_USER_AGENT"
+  keywords:
+    - "analise de dados"
+    - "ciência de dados"
+    - "engenharia de dados"
+    - "data analysis"
+    - "data science"
+    - "data engineering"
+    - "machine learning"
+    - "big data"
+  post_limit: 1000
